@@ -1,11 +1,3 @@
-
-
-https://github.com/user-attachments/assets/904d7024-32e0-4126-ac8d-8e778b62557d
-
-
-
-https://github.com/user-attachments/assets/21229031-0f74-4b65-84de-e7b9b85d0ad9
-
 # 🚀 Asteroids AR Project
 
 An **Augmented Reality Asteroids game** built with **Unity 2021.3.1f1** and **AR Foundation**, deployed on Android. The classic arcade shooter is reimagined in AR — asteroids, UFOs, and projectiles appear overlaid on the real world through the device camera.
@@ -21,8 +13,9 @@ An **Augmented Reality Asteroids game** built with **Unity 2021.3.1f1** and **AR
   3. GitHub will upload it and replace this comment with a real video link automatically
 -->
 
-https://user-images.githubusercontent.com/REPLACE_THIS_WITH_REAL_LINK_FROM_DRAG_AND_DROP
-
+[https://user-images.githubusercontent.com/REPLACE_THIS_WITH_REAL_LINK_FROM_DRAG_AND_DROP
+](https://github.com/user-attachments/assets/904d7024-32e0-4126-ac8d-8e778b62557d
+)
 ---
 
 ## ✨ Key Features & Highlights
