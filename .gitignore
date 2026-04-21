@@ -104,3 +104,11 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+Asteroid_AR_Project/Library/
+
+Asteroid_AR_Project/Temp/
+
+Asteroid_AR_Project/Logs/
+
+Asteroid_AR_Project/Build/
