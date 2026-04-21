@@ -7,8 +7,9 @@ An **Augmented Reality Asteroids game** built with **Unity 2021.3.1f1** and **AR
 ## 🎮 Gameplay Demo
 
 <div align="center">
-  <video src="YOUR_REAL_VIDEO_URL_HERE" controls width="400"></video>
+  <video src="https://github.com/user-attachments/assets/e1d9b503-add2-4b24-9af7-e0e479bcdf2f" controls width="400"></video>
 </div>
+
 https://github.com/user-attachments/assets/e1d9b503-add2-4b24-9af7-e0e479bcdf2f
 
 
