@@ -6,7 +6,8 @@ An **Augmented Reality Asteroids game** built with **Unity 2021.3.1f1** and **AR
 
 ## 🎮 Gameplay Demo
 
-> 🎥 **To add the video:** Edit this README on GitHub, delete this line, then drag and drop `Project 1_Asteroid Game.mp4` into the editor. GitHub will auto-generate a working video player link.
+https://github.com/user-attachments/assets/e1d9b503-add2-4b24-9af7-e0e479bcdf2f
+
 
 ---
 
