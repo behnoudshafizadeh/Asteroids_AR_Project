@@ -10,9 +10,6 @@ An **Augmented Reality Asteroids game** built with **Unity 2021.3.1f1** and **AR
   <video src="https://github.com/user-attachments/assets/e1d9b503-add2-4b24-9af7-e0e479bcdf2f" controls width="400"></video>
 </div>
 
-https://github.com/user-attachments/assets/e1d9b503-add2-4b24-9af7-e0e479bcdf2f
-
-
 ---
 
 ## ✨ Key Features & Highlights
